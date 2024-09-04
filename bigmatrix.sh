@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Call filter-VCF.py to create the matrix for all samples using 185 drivers from 100KGP.
+# Call filter-VCF.py to create the matrix for all samples using 193 drivers from 100KGP.
 
 # Directory containing VCF files
 VCF_DIR="/exports/igmm/eddie/tomlinson-Polyp-WGS-RNA/GRAMPIAN/grampian_VEP/tumour_normal"
